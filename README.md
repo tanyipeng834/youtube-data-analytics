@@ -5,7 +5,7 @@ to parse out statistics based on category which has been phased out by youtube f
 # Usage
 ```
 Import this repository and run all cells from the yotube.ipynb file
-It will propmpt you for the category you want to analyse on.
+It will prompt you for the category you want to analyse on.
 Please input a appropriate category based on the documentation
 ```
 
