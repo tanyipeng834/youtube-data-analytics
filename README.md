@@ -1,5 +1,5 @@
 # Youtube-Data-Analytics-Project
-A simple data analysis project which uses the [Youtube Data Api] (https://developers.google.com/youtube/v3)
+A simple data analysis project which uses the [Youtube Data Api](https://developers.google.com/youtube/v3)
 to parse out staistics based on category which has been phased out by youtube since.
 
 # Usage
@@ -10,4 +10,4 @@ Please input a appropriate category based on the documentation
 ```
 
 # Documentation
-)Acceptable categories can be found [here](https://techpostplus.com/youtube-video-categories-list-faqs-and-solutions/)
+Acceptable categories can be found [here](https://techpostplus.com/youtube-video-categories-list-faqs-and-solutions/)
