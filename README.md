@@ -1,10 +1,10 @@
 # Youtube-Data-Analytics-Project
 A simple data analysis project which uses the [Youtube Data Api](https://developers.google.com/youtube/v3)
-to parse out staistics based on category which has been phased out by youtube since.
+to parse out statistics based on category which has been phased out by youtube for a long time.
 
 # Usage
 ```
-import this repository and run all cells.
+Import this repository and run all cells from the yotube.ipynb file
 It will propmpt you for the category you want to analyse on.
 Please input a appropriate category based on the documentation
 ```
