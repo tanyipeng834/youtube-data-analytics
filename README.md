@@ -1,6 +1,5 @@
+![Youtube](https://havecamerawilltravel.com/photographer/files/2020/01/youtube-logo-new.jpg)
 # Youtube-Data-Analytics-Project
-![Youtube](https://img.favpng.com/16/22/10/youtube-streaming-media-video-image-brand-png-favpng-MqPvT8UAQnp9tpgfG7AEDHyAP.jpg)
-
 A simple data analysis project which uses the [Youtube Data Api](https://developers.google.com/youtube/v3)
 to parse out statistics based on category which has been phased out by youtube for a long time and 
 conduct machine learning models such as K-Means Clustering and linear regression to build out predictive models for
