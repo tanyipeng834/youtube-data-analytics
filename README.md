@@ -8,9 +8,9 @@ future youtube videos.
 ```
 Import this repository and run all cells from the youtube.ipynb file
 It will prompt you for the category you want to analyse on.
-Please input a appropriate category based on the documentation
+Please input a appropriate category based on the Getting Started section
 ```
 
-# Documentation
+# Getting Started
 1. Acceptable categories can be found [here](https://techpostplus.com/youtube-video-categories-list-faqs-and-solutions/)
-2. Please Register for an API Key and input it in the helper.py file [here](https://developers.google.com/)
+2. Please register for an API Key and input it in the helpers.py file [here](https://developers.google.com/)
