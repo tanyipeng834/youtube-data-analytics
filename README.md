@@ -12,5 +12,5 @@ Please input a appropriate category based on the documentation
 ```
 
 # Documentation
-Acceptable categories can be found [here](https://techpostplus.com/youtube-video-categories-list-faqs-and-solutions/)
-Please Register for an API Key and input it in the helper.py file [here](console.developers.google.com)
+1. Acceptable categories can be found [here](https://techpostplus.com/youtube-video-categories-list-faqs-and-solutions/)
+2. Please Register for an API Key and input it in the helper.py file [here](https://developers.google.com/)
