@@ -1,6 +1,8 @@
 from googleapiclient.discovery import build
 import re
-API_KEY = 'AIzaSyCMyjscMagziCumgZ2IOMIZgko5XDS9G-k'
+# Insert your own developer key from google developer's
+# console
+API_KEY = '#'
 # Initiliaze youtube service
 youtube = build('youtube','v3',developerKey = API_KEY)
 
