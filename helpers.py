@@ -113,3 +113,8 @@ class ApiResponse:
                 break
         return self
 
+    def scrape_for_channel_stats(self,channel_id):
+        # Using channel id to obtain channel statistics
+        channel = youtube.channels().list(part="statistics",id=channel_id)
+        channel_response = channel.execute()
+        return channel_response
